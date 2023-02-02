@@ -1,5 +1,5 @@
 # MARVL-transcripts
-Work done in trying to process transcripts from Youtube and other paid services
+Process transcripts from Youtube and other paid services (Otter.AI and possibly Fireflies.ai in the future).
 
 Content: 
 - [`raw`](raw): TXT files with transcripts from different sales-related videos. 
