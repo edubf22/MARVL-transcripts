@@ -1,0 +1,854 @@
+0:00
+let's kick this off i want to talk about
+0:01
+hooks
+0:02
+hooks have a special meaning gb when you
+0:05
+think about the word hooks what do you
+0:06
+think of
+0:07
+all right so i mean there's like
+0:10
+i just think about like how do you catch
+0:11
+someone like how do you capture their
+0:13
+attention like long enough for them to
+0:16
+go like what is this right so if you
+0:18
+think about somebody scrolling through
+0:20
+their email or their look the first
+0:22
+thing they might be doing in the morning
+0:23
+or after a meeting is they're looking at
+0:25
+their phone
+0:26
+like they have the option to keep on
+0:28
+moving but there's going to be something
+0:29
+that hooks their attention where they
+0:30
+just have to stop right and check it out
+0:33
+that to me is what a hook is
+0:35
+it's a choice to stay with the message
+0:39
+well the i well
+0:40
+me being super annoying it's like it's
+0:42
+that mechanism that drives somebody to
+0:46
+making the choice to check it out so
+0:47
+like
+0:48
+i think one of the things that i've
+0:49
+heard about hooks it's like all right
+0:51
+maybe you're scrolling through your tick
+0:52
+tock or an instagram reel or something
+0:54
+and someone goes stop right you go what
+0:57
+you know like so just that stop like the
+0:59
+fact that you stopped like that to me is
+1:01
+the hook or if it's like hey if you are
+1:04
+struggling with answering this objection
+1:06
+and you're like hell yeah yeah you're
+1:08
+right like it's that thing that goes
+1:10
+like this is for me
+1:12
+i think the preview is part of that and
+1:14
+we're going to talk about that later but
+1:15
+one of the things that i know to be true
+1:18
+is that before you send a single email
+1:20
+you got to know your icp
+1:22
+you got to know the people that you're
+1:24
+going to talk to why are you talking to
+1:26
+them why are they the person that's best
+1:28
+for this conversation i'm gonna put
+1:30
+something in the chat right now this is
+1:32
+a link to zoom info you can go start
+1:34
+building a list of your ideal clients
+1:36
+and set the parameters now because
+1:39
+before you send a single email you got
+1:40
+to know why you're sending it and who
+1:42
+you're sending it to this is an
+1:43
+extremely crucial first step in all of
+1:46
+sales how often is this a problem in
+1:48
+your world gb
+1:50
+um it's different than not yeah yeah
+1:53
+yeah yeah my bad sorry i got honestly i
+1:55
+saw that you were wearing a chicago hat
+1:56
+and i'm like thank you because that's my
+1:58
+hometown i got distracted a little bit
+2:00
+there yeah we're going to be in chicago
+2:01
+this week i leave tomorrow if you're in
+2:02
+chicago hit me up we're going to throw a
+2:04
+party on thursday more social than sas
+2:05
+what let's go let's go let's go but no
+2:08
+yeah i i can't say like anything but a
+2:10
+hundred percent it's like um i think
+2:12
+it's uh uh sam oh it's going to bother
+2:14
+me that i can't remember her name off
+2:15
+the top of my head right now but sam
+2:17
+sales right yeah mckenna sam mccann
+2:19
+thank you thank you but it's like she's
+2:20
+like show me you know me right so like
+2:23
+if you can show someone that you've done
+2:25
+your research that you've taken the time
+2:27
+to pull something out that like only
+2:29
+they
+2:30
+like that's only gonna be relevant to
+2:32
+them or only they have written they're
+2:33
+gonna some people reward you for that
+2:35
+even if you don't have a solution or a
+2:37
+platform or service that's super helpful
+2:39
+for them the fact that you've taken the
+2:40
+time to go all right i've i've looked at
+2:43
+your profile i've done some research on
+2:45
+your company i'm seeing some of the
+2:47
+initiatives that your company is focused
+2:49
+on and how your role might be involved
+2:50
+in this someone might go damn
+2:54
+yeah
+2:55
+show me you know me was the first the
+2:57
+first time i heard that was from sam
+2:58
+mckenna and i think it was at the
+3:00
+rainmaker conference in like 2016 2017
+3:04
+but that really resonated well with the
+3:06
+crowd i remember them thinking like
+3:07
+that's the stuff that gets my attention
+3:09
+and we'll talk about this more as we
+3:10
+move forward but like when somebody
+3:12
+starts an email off with
+3:14
+james that webinar you did yesterday was
+3:16
+amazing or james that piece of content
+3:19
+that you put out changed my life yep
+3:21
+those people get my attention right away
+3:24
+right i will ignore other emails to open
+3:27
+that one
+3:28
+yeah 100
+3:29
+i think brody brody hill had asked a
+3:31
+question of like what's the best way to
+3:33
+find something the prospect or the org
+3:35
+has said like linkedin the website
+3:37
+all of it right so one of the things
+3:40
+that you can do is look at like
+3:41
+self-authored content and by the way
+3:43
+like a really helpful resource go check
+3:45
+out beck hollands flip the script uh uh
+3:47
+check check out her website and go under
+3:49
+written content and there's like an
+3:51
+encyclopedia of like hooks basically and
+3:54
+it's just telling you like here are all
+3:55
+the things that are all it's an
+3:57
+encyclopedia personalization and
+3:59
+relevant and so you can look at
+4:00
+something that if they're writing
+4:01
+content on linkedin like for to james's
+4:03
+point like for me i put a lot of content
+4:05
+out there on linkedin if someone goes
+4:07
+hey i read your post yesterday i take a
+4:09
+lot of pride in that so like the fact
+4:11
+that you're taking the time to go and
+4:12
+associate with something that i take
+4:14
+pride in i'm going to pay attention to
+4:16
+it other things that you can look at are
+4:17
+going to be a company's website of
+4:19
+course you can go if you're working
+4:20
+strategic or public accounts you can go
+4:22
+look at their 10ks you can read
+4:25
+press releases you can check out are
+4:26
+they launching new products right you
+4:28
+can see like what is the company page
+4:30
+actually posting are they hiring for
+4:32
+certain positions so like if you you can
+4:34
+simply go like company name
+4:36
+plus like strategy 2022 plus the ceo's
+4:41
+name and you're going to hear about all
+4:42
+the things that are going to be top of
+4:44
+mind for that company
+4:45
+yeah i one if i started to catch myself
+4:48
+getting bored with what i was saying i
+4:49
+was like this is too long like that's
+4:51
+one thing i think secondly as well is
+4:53
+i
+4:54
+if it's not conversational it's probably
+4:57
+not relevance
+4:59
+so and and then also yeah so i think
+5:01
+those were really the two big things was
+5:03
+just like all right if i'm saying this
+5:04
+out loud and it doesn't flow it doesn't
+5:06
+sound like a good conversation it
+5:07
+doesn't say like it doesn't sound like
+5:09
+me then it's not it's not going to
+5:10
+resonate with somebody else
+5:12
+um
+5:13
+yeah i also feel like when you read it
+5:15
+out loud you're asking yourself do i
+5:17
+talk like this
+5:19
+is this how i sound yeah that's the
+5:23
+well yeah i i feel like i run into
+5:24
+situations where like i let's say
+5:27
+previously
+5:28
+i wrote like how my manager wrote and
+5:31
+then i would say it out loud and so then
+5:33
+there'd just be this huge disconnect um
+5:35
+and i i'm a big believer in like
+5:38
+whatever you put out energy-wise is what
+5:40
+you're going to get back energy-wise so
+5:42
+if your energy is like i'm just trying
+5:44
+to sound like somebody else like you're
+5:45
+not going to get anybody else's
+5:46
+attention
+5:47
+so if you feel comfortable you feel
+5:49
+confident like you're having a good time
+5:51
+your prospects will too
+5:54
+yeah absolutely and do that if you're
+5:55
+not being yourself
+5:57
+yeah absolutely the energy has to come
+5:59
+across in the email even though the tone
+6:01
+is lost that's energy and tone are the
+6:04
+same but they work well together it's
+6:07
+important that your tone is upbeat fun
+6:10
+uplifting and then also it's it's always
+6:12
+good to have that
+6:13
+that personalization that adds to the
+6:15
+flavor of like hey i actually care right
+6:18
+yeah i'm putting that vibe out there
+6:20
+that i took the time and i did this uh i
+6:22
+have some emails that i can share with
+6:24
+you lisa uh or liz foster great question
+6:27
+there and i think gb was digging through
+6:29
+her inbox to look at some as well so
+6:31
+we'll get to that here in a second but
+6:33
+let's talk some of that about some of
+6:34
+this let me know if you find one you
+6:35
+want to share right away
+6:37
+uh gb i'm i'm fine with that right
+6:39
+i want to talk about this second to last
+6:41
+one because i think the second to last
+6:42
+one is a little bit controversial we
+6:43
+have about 20 minutes left so i want to
+6:45
+get to this one for sure remove the
+6:47
+informative tone
+6:49
+i think this is interesting because we
+6:51
+find lavender reports back will will
+6:53
+will state
+6:54
+that when you lose the informative tone
+6:57
+you actually get a higher reply rate but
+7:00
+all of our leadership teaches us that we
+7:02
+should be educating our prospects where
+7:04
+do we draw the line
+7:08
+oh good question
+7:10
+right so i guess i'm i'm curious about
+7:12
+the informative tone right like what
+7:15
+does that look like what does that sound
+7:16
+like
+7:17
+to me i think it sounds like did you
+7:18
+knows i think it sounds like hey here's
+7:21
+a great article that i thought would be
+7:23
+relevant to you uh and you know maybe
+7:25
+the article is great maybe you're even
+7:27
+pointing to that special place where
+7:28
+they should be looking in the article to
+7:30
+get that value but in the end you're
+7:32
+still quote educating your prospect
+7:34
+you're still sharing that knowledge but
+7:36
+then we know based on lavender's data
+7:38
+that if you shorten that email and lose
+7:41
+that informative tone that educational
+7:44
+tone you actually get a higher reply
+7:45
+rate so where do we draw the line what's
+7:47
+a good tactic to start thinking about
+7:49
+this this way it's it's definitely an
+7:51
+interesting conversation and feel free
+7:52
+to jump in in the chat and say your your
+7:54
+piece on this y'all yes i'm trying to
+7:56
+think i've seen it where like okay like
+7:58
+we have a gartner like let's say gartner
+8:00
+publishes a report and they say hey like
+8:02
+this percentage of
+8:04
+this
+8:05
+like
+8:05
+uh
+8:06
+uh cxo right
+8:08
+um so it's like 73 of cmos really care
+8:11
+about operational execution right like
+8:13
+if i start off my email like that i'm
+8:15
+like this is marketing this is marketing
+8:17
+spiel right like right it has nothing to
+8:19
+do with me and then also i think it's
+8:20
+coming across like yeah i know like i
+8:22
+know operational execute like i know
+8:24
+that operational efficiencies are
+8:25
+important get out of my face right but
+8:28
+if it's something along the lines of
+8:29
+like hey
+8:30
+see that you have uh or like you know
+8:32
+you you did a little bit of research and
+8:34
+it's like
+8:35
+um i always like the question even of
+8:37
+like hey with
+8:39
+if your company's has this huge like
+8:40
+change transfer like this digital
+8:42
+transformation process in place knowing
+8:44
+that like you know
+8:46
+three out of four every change
+8:47
+management projects fail how are you
+8:49
+setting your team up
+8:50
+to like be one of the like one of those
+8:53
+four who doesn't
+8:55
+so i'm like i'm not beating people over
+8:56
+the head with a bunch of information i'm
+8:58
+just kind of calling out like you're
+9:00
+doing x y and z most of the time it's
+9:02
+it's it's a bust like what like how are
+9:04
+you and your team making sure that
+9:05
+you're not part of that
+9:07
+all right so we talked about tonality
+9:09
+and we talked about the way that we
+9:10
+write uh happy tone informative tone and
+9:13
+a tentative tone can you break these
+9:14
+down for us
+9:16
+ooh happy tone okay so like
+9:20
+i feel like some people will start off
+9:21
+an email with all doom and gloom right
+9:23
+like
+9:24
+everything is messed up it's terrible
+9:26
+the world is burning the world is
+9:28
+burning right like i i or like or it's
+9:31
+just really really drab and so i think
+9:33
+finding ways of like or it doesn't have
+9:36
+to be like oh like smiley faces and
+9:37
+things like that yeah but
+9:39
+um
+9:41
+that's kind of like how i think about it
+9:42
+it's just like you don't want to go like
+9:43
+hey everything is messed up everything
+9:44
+is screwed and nothing is ever going to
+9:46
+be the same unless you have us it's just
+9:48
+more so like hey here's some things that
+9:50
+i'm seeing that like that i really agree
+9:52
+with that i think are super exciting or
+9:54
+that i'm super interested in like i
+9:55
+think there's that kind of tone to your
+9:57
+emails and then someone had asked this
+9:59
+question of like within the chat of hey
+10:01
+like is it if i'm if i'm referencing an
+10:03
+article like is that me being
+10:05
+informative or not if i'm
+10:08
+if i'm referencing like a
+10:10
+analyst report that anybody and
+10:12
+everybody can read and i'm pulling
+10:13
+quotes from that and i'm trying to like
+10:15
+go hey like look at this stuff and
+10:17
+here's the information that i'm going to
+10:18
+have if i'm just trying to like
+10:20
+basically just read off a gartner report
+10:22
+that to me is taking an informative tone
+10:25
+versus if i'm taking an article and i'm
+10:27
+saying hey like you were quoted saying x
+10:29
+y and z that really resonated with me
+10:32
+and then you ask a question about how
+10:33
+they're trying to do something that is
+10:35
+just more so like bringing in relevance
+10:37
+versus trying to inform someone of
+10:38
+something that they can go and find out
+10:40
+themselves for example um
+10:44
+yeah and so i think even for the tent
+10:45
+like there was something there um what
+10:47
+this would have been will's part of like
+10:48
+the tentative tone
+10:50
+there's the conversation about like all
+10:51
+right i'm trying to remember exactly
+10:53
+what he said like if you come in and
+10:54
+you're unsure about things like it's
+10:56
+much more like an inquisitive if that's
+10:58
+a better thing versus an informative but
+11:00
+i can't recall exactly what he said
+11:02
+uh there's i think it's a confidence
+11:03
+thing number one but then there's this
+11:05
+competence level too you can't display
+11:07
+confidence if you're not competent in
+11:09
+what you're doing so the two feed each
+11:10
+other really well uh but i know the
+11:13
+two-piece part was the part that caught
+11:15
+my attention so for those of you that
+11:17
+don't know will i think he's said this
+11:19
+on a few of our shows in the past uh he
+11:20
+may have even tweeted about it a time or
+11:22
+two uh you can go follow him on twitter
+11:24
+there's a lot of value there in
+11:26
+following him he puts out a lot of great
+11:27
+content about email writing specifically
+11:29
+uh but one of the things that he does is
+11:31
+he does the two piece so a valid reason
+11:34
+for the personalization or the relevance
+11:36
+or both right you can be personalized
+11:38
+and relevant which is like the ultimate
+11:39
+combo but if i have to choose between
+11:42
+relevance and personalization i'm going
+11:43
+to go relevance mostly right that tends
+11:46
+to have the higher reply and the second
+11:48
+piece of your two-piece meal is this
+11:50
+good flow for the message is it a linear
+11:52
+thought process there's no breaks that
+11:55
+are hard great example of a break and
+11:56
+this is a pattern that we see a lot hey
+11:58
+i see you went to the university of
+11:59
+maryland john anyway the reason i'm
+12:01
+reaching out is because i have this ai
+12:02
+tool right it's broken it's not
+12:04
+associated it's not affiliated with the
+12:06
+message it has no bearing on what your
+12:08
+value proposition is and therefore it is
+12:10
+meaningless you can personalize with
+12:12
+useless stuff like that until the cows
+12:14
+come home it's probably not going to
+12:16
+impact your open rate your reply rate or
+12:18
+the number of people that close business
+12:21
+with you and that's the ultimate goal
+12:22
+thoughts on that gb i see this all the
+12:25
+time where people go look at this really
+12:27
+like look at all this personalization
+12:28
+that i put in honestly what i think one
+12:31
+of the things that can plague a team is
+12:34
+they are more interested about in um and
+12:38
+their friends and their colleagues like
+12:39
+cheering them on in their
+12:40
+personalization than actually getting
+12:42
+results so it's like hey like i have
+12:44
+this really like this really witty
+12:46
+whatever and it's like no like have you
+12:47
+actually talked about what's going on in
+12:49
+their business have you actually talked
+12:50
+about what's going on in their role and
+12:51
+their responsibilities like in a way
+12:53
+that garners a response that drives
+12:55
+pipeline if the answer is no then i'm
+12:57
+like great like pat yourself on the back
+12:59
+and like let's do this again so
+13:02
+you know that's like that i mean that's
+13:03
+my that's my honest thought and then um
+13:06
+yeah i mean that's that's really it i
+13:08
+think we have to make sure that what for
+13:09
+me if i'm reading something and it goes
+13:12
+hey gb i saw that you like matcha lattes
+13:15
+and then all of a sudden we're talking
+13:16
+about something totally different i'm
+13:17
+like okay well i'm an sdr manager like
+13:19
+i'm gonna i appreciate the fact that i
+13:21
+have no idea what matcha is in your
+13:23
+solution and then i'm just confused yeah
+13:25
+right so like help me not be confused
+13:27
+i'm a simple i've got you know like
+13:30
+a reptile brain up here like make it
+13:31
+really simple for me to figure things
+13:33
+out
