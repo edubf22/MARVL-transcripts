@@ -32,6 +32,3 @@ sentence2
 \n
 ...
 ```
-
-# Format needed
-Right now, the lambda functions use `speaker_id` and `raw_text`. Aim to format the transcripts so that we have the same features. 
